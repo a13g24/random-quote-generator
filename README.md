@@ -2,10 +2,10 @@
 
 ## Purpose
 
-To generate a random quote.
+To generate a random quote using a quote API.
 
 ## Technologies
 
 - JavaScript
 - Node
-- [Quote API](https://type.fit/api/quotes)
+- Quote API
